@@ -128,7 +128,7 @@ Supports:
 
 ---
 
-## 📁 Project Repository Structure (Recommended)
+## 📁 Project Repository Structure 
 
 ```
 📦 industrial-furnace-cloud-control
