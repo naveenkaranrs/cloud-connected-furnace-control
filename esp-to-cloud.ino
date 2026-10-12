@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3yt8nTbC-"
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "FURNACE TRACKER"
-#define BLYNK_AUTH_TOKEN "YPN5vKv-H6aHPiXqLXpggxKWf_ahQ4sz"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
 
 // Uncomment this line for Serial debug output
 #define BLYNK_PRINT Serial
@@ -13,8 +13,8 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials
-char ssid[] = "naveen";
-char pass[] = "naveenrs";
+char ssid[] = "YOUR_WIFI_SSID";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // DHT11 Setup
 #define DHTPIN 4       // GPIO4 (D4 pin on NodeMCU-32S)
